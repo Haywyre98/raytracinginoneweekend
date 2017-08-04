@@ -4,7 +4,6 @@ This is my implementation of Peter Shirley's fantastic book, Ray Tracing In One 
 
 ![alt text](https://github.com/haywyre01/raytracinginoneweekend/blob/master/render1.png "Example Render")
 
-
 ## Features
 
 - Shading
